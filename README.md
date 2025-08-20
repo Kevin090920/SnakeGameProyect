@@ -41,3 +41,19 @@ No hay carpetas adicionales en este repositorio por simplicidad.
 
 ## Notas de Desarrollo
 Este proyecto fue actualizado como parte de una tarea para incluir estructuras de datos y manejo funcional. Los diagramas de flujo reflejan los nuevos pasos, y el código está optimizado para reiniciar el juego correctamente.
+
+## Referencias
+- Python Software Foundation. (n.d.). *Built-in Types*. https://docs.python.org/3/tutorial/datastructures.html
+- Usado para aprender sobre listas, diccionarios y tuplas, y cómo aplicarlos en el juego.
+
+- Pygame Community. (n.d.). *Pygame Documentation*. https://www.pygame.org/docs/
+- Consultado para entender eventos de teclado y renderizado de texto.
+
+- GeeksforGeeks. (n.d.). *Snake Game in Python using Pygame Module*. https://www.geeksforgeeks.org/python/snake-game-in-python-using-pygame-module/
+- Referencia para implementar la lógica básica de la serpiente y usar listas.
+
+- 101 Computing. (n.d.). *Snake Game using Python and Pygame*. https://www.101computing.net/snake-game-using-python/
+- Ayudó a estructurar el uso de tuplas para posiciones.
+
+- YouTube. (n.d.). *Python Lesson 3 - Dictionaries*. https://www.youtube.com/watch?v=Uom8RkZk2Wk
+- Tutorial usado para integrar diccionarios en el manejo de teclas.
