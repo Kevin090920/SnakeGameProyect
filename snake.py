@@ -130,7 +130,7 @@ def update_loop():
     screen.fill(BLACK)
     snake.draw(screen)
     food.draw(screen)
-    draw_text(screen, f"Puntaje: {score}", 10, 30)
+    draw_text(screen, f"Puntaje: {score}", WIDTH - 200, 10)  # Ajuste a WIDTH - 200 para mayor visibilidad
     pygame.display.flip()
 
 def main():
